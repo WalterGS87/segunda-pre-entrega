@@ -76,7 +76,7 @@ header a:hover{
     font-size: 1.75em;
 }
 
-#quienes-somos .container{
+#donde-estamos .container{
     text-align: center;
     padding: 200px 12px;
 }
@@ -162,12 +162,12 @@ footer .container{
         font-size: 5em;
     }
 
-    #quienes-somos .container{
+    #donde-estamos .container{
         display: flex;
         justify-content: space-evenly;
     }
 
-    #quienes-somos .texto{
+    #donde-estamos .texto{
         width: 50%;
         max-width: 600px;
         text-align: initial;
@@ -177,11 +177,11 @@ footer .container{
         justify-content: center;
     }
 
-    #quienes-somos h2{
+    #donde-estamos h2{
         margin-top: 0px;
     }
 
-    #quienes-somos .img-container{
+    #donde-estamos .img-container{
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -234,7 +234,7 @@ footer .container{
 
     footer .container{
         justify-content: flex-end;
-        background-color: antiquewhite;
+        background-color: rgb(250, 248, 246);
         
     }
 
